@@ -32,6 +32,31 @@ Kerala's tech scene is growing fast, with various tech companies from startups t
 
 - Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
+# Top 100 Finalist -  Proof of Work
+
+#### My Contribution:
+- My focus within the project revolves around simplifying the website evaluation process by seamlessly integrating an image upload feature
+
+#### Key Contributions:
+
+Image Upload Management
+- Implemented a robust image upload functionality within the project.
+- Utilized the ImgBB server through cURL for efficient and cost-effective image hosting.
+
+Response Handling
+- Developed mechanisms to handle responses from the ImgBB server.
+- Extracted the image URL from the server response, a critical step for subsequent processing.
+
+Collaborative UI Development
+- Designed the project with UI developers in mind, facilitating collaboration and efficient task management.
+
+#### Challenges Overcome
+- Overcame tight timelines by fostering team collaboration, making agile decisions, and swiftly addressing challenges, resulting in the successful and efficient completion of the project.
+
+#### Future Enhancements:
+- Though I've explored Beckn without completing a project, my next goal is clear: merge Beckn and OpenAI to craft an exceptional resume builder. Stay tuned for a user-friendly and innovative tool in the near future!
+#### Final Thoughts:
+- Enjoyed working with fellow coders, learned a lot, and had a great time. Excited for more collaborative adventures ahead!
 
 > In your portfolio, include the following details:
 >> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
